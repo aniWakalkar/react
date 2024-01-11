@@ -16,7 +16,7 @@ function Navbar() {
                         </li>
                     </ul>
                     <form className="d-flex" style={{alignItems: 'center', marginRight: '50px'}}>
-                        <h4 className="text-success" style={{marginRight:'50px'}}>Aniket Wakallkar </h4>
+                        <h4 className="text-success" style={{marginRight:'50px'}}>Aniket Wakalkar </h4>
                         <img src={icon} alt="key_image" style={{height:'50px', width: '50px'}}/>
                     </form>
                 </div>
